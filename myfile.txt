@@ -1,0 +1,2 @@
+I want to add this sentence in the file with name myfile.txt
+Again, I want to add this sentence in the file with name myfile.txt
