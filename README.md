@@ -1,5 +1,5 @@
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
-<div align=center>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" align=center>
 <font face="IranNastaliq" size=40 color=#C35513>
 <p></p>
 به نام خدا
@@ -22,8 +22,8 @@
 </font>
 </div></div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
-<div align=center>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" align=center>
 <font color=#C35513>
 معرفی درس و هدف درس
 </font><p></p> 
@@ -41,7 +41,7 @@
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Zar" size=4>
+<div dir="rtl" style="line-height:300%;"><font face="XB Zar" size=4>
 <h3><a  name="menu"> فهرست محتویات</a></h3>
 <ol style="margin-right: 0;">
 <li><a href="#section1">مقدمه بر ساختار رایانه و مبانی زبان های برنامه نویسی 	</a></li>
@@ -66,9 +66,9 @@
 
 <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section1" href="#menu">فصل 1: مقدمه بر ساختار رایانه و مبانی زبان های برنامه نویسی</a></div>
+<div dir="rtl" align=center><a  name="section1" href="#menu">فصل 1: مقدمه بر ساختار رایانه و مبانی زبان های برنامه نویسی</a></div>
 </font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <font color=#C31330>
 <br>
 در این بخش با مطالب زیر آشنا می‌شویم:
@@ -82,10 +82,10 @@
 </font>
 </font></div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=#C31330 size=5>
     <p></p>
-    <div align=center><a  name="sub1sec1">برنامه چیست</a>
+    <div dir="rtl" align=center><a  name="sub1sec1">برنامه چیست</a>
     </div></font>
     <p></p>
     برنامه یک سری فعالیت ها و دستورات است که شما را به هدف یا جوابی که می‌خواهید می‌رساند. برای یک برنامه ابتدا باید یک مسئله وجود داشته باشد. سپس برای آن مسئله یک برنامه نوشته می‌شود که بتواند شما را به جواب برساند. 
@@ -95,10 +95,10 @@
 </div>
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=#C31330 size=5>
     <p></p>
-    <div align=center><a  name="sub2sec1">زبان برنامه‌نویسی چیست</a>
+    <div dir="rtl" align=center><a  name="sub2sec1">زبان برنامه‌نویسی چیست</a>
     </div></font>
     <p></p>
     زبان برنامه نویسی دستورات مد نظر شما در یک برنامه را به طوری تعریف می‌کند که برای یک سیستم قابل فهم باشد.
@@ -124,9 +124,9 @@
 <font color=135FC3 size=6>
 <p></p>
 
-<div align=center><a  name="section2" href="#menu">فصل 2: ویژگی‌های زبان پایتون و برنامه سازی و نصب محیط ژوپیتر پایتون</a></div>
+<div dir="rtl" align=center><a  name="section2" href="#menu">فصل 2: ویژگی‌های زبان پایتون و برنامه سازی و نصب محیط ژوپیتر پایتون</a></div>
 </font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <font color=#C31330>
 مقدمه
 </font><p></p>
@@ -147,8 +147,8 @@
 
 <font color=#C31330 size=5>
 <p></p>
-<div align=center><a  name="sub1sec2">نصب آناکندا</a></div></font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" align=center><a  name="sub1sec2">نصب آناکندا</a></div></font>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
 در پایین 3 مرحله دانلود آناکندا را مشاهده می‌کنید: <br>
 <br />
@@ -241,8 +241,8 @@
 
 <font color=#C31330 size=5>
 <p></p>
-<div align=center><a name="sub2sec2">درک زبان کامپیوتر</a></div></font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" align=center><a name="sub2sec2">درک زبان کامپیوتر</a></div></font>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
 برای برنامه نویسی نیاز است ابتدا هدف خود را مشخص کنید سپس آن را دسته بندی کنید. دسته بندی کار به صورت مرحله ای خواهد بود. هیچگاه نیاز نیست از ابتدای کار برنامه شما کامل و بدون ایراد باشد. برنامه کامل در ابتدا همیشه با آزمون و خطا به وجود می‌آید.
 <br>
@@ -285,8 +285,8 @@
 
 <font color=#C31330 size=5>
 <p></p>
-<div align=center><a name="sub3sec2">آشنایی مقدماتی با پایتون</a></div></font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" align=center><a name="sub3sec2">آشنایی مقدماتی با پایتون</a></div></font>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     برای آن که با پایتون آشنایی اولیه پیدا کنیم، نیاز است ابتدا با برخی از تعریف‌های اولیه آشنا شویم:
     <br>
@@ -330,7 +330,7 @@ print(a)
     12
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 در واقع تابع print() برای خروجی در پایتون استفاده می‌شود.
 <br>
     برای گرفتن ورودی از کاربر برنامه از کلمه input همانند نمونه زیر استفاده می‌شود:
@@ -351,7 +351,7 @@ input()
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 برای نگهداری مقدار ورودی آن را در یک متغیر ذخیره می‌کنیم. در این حالت بعدا میتوانید از آن استفاده کنید.
     <br>
      برای درک بهتر مثال جمع دو عدد را در نظر بگیرید. آن را به صورت زیر پیاده سازی می‌کنیم:
@@ -370,7 +370,7 @@ print(sum_of_2_numbers)
     23
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 با آن که راه حل ما درست به نظر می‌رسد اما جواب ما درست نیست. دلیل آن این است که ورودی ها در پایتون به صورت رشته هستند.
     <br>
     اما رشته چیست؟
@@ -399,10 +399,10 @@ print("The sum is ",sum_of_2_numbers)
 <a  href="#section2menu">بازگشت به فهرست</a>
 </font>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section3" href="#menu">فصل 3: متغیر، عبارت (Expression) و دستور (Statement)، اولین برنامه</a></div>
+<div dir="rtl" align=center><a  name="section3" href="#menu">فصل 3: متغیر، عبارت (Expression) و دستور (Statement)، اولین برنامه</a></div>
 </font>
 <font color=#C31330>
 مقدمه
@@ -422,8 +422,8 @@ print("The sum is ",sum_of_2_numbers)
 
 <font color=#C31330 size=5>
 <p></p>
-<div align=center><a name="sub1sec3">انواع متغیر</a></div></font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" align=center><a name="sub1sec3">انواع متغیر</a></div></font>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     همان طور که در فصل گذشته به آن اشاره شد، انواع متغیرها در پایتون شامل اعداد، رشته ها، لیست، تاپل و دیکشنری است. برخلاف برخی دیگر از زبان‌های برنامه نویسی مانند cو java ، در پایتون نیاز به مشخص کردن نوع متغیر هنگام تعریف آن نیست. بسته به مقداری که برای متغیر تعیین می‌شود، نوع متغیر برای زبان پایتون مشخص می‌شود.
     بنابراین در صورتی که به متغیر به طور مثال a مقدار 2 تعریف شود، پایتون نوع آن را int در نظر می‌گیرد که عدد صحیح است.
@@ -473,7 +473,7 @@ type(a) # رشته
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     همان طور که مشاهده می‌کنید، متغیری به نام a سه مقدار متفاوت گرفته و با هر بار تعلق متغیر به آن، نوع آن نیز تغییر کرده است.
     بنابراین اگر در حین برنامه مقدار یک متغیر را تغییر بدهید دیگر نمی‌توانید به عملکرد سابق آن بازگردید.
@@ -503,7 +503,7 @@ print('a is',a , 'and b is', b)
     a is a string and b is 123
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     همچنین امکان کَست دو مقدار به هم (در صورت امکان تبدیل دو مثدار به هم) را نیز داریم. به این معنا که اگر عددی در غالب رشته باشد توانایی تبدیل آن به عدد را داریم.
     یا میتوانیم در صورت نیاز عددی را به رشته تبدیل کنیم. 
@@ -542,7 +542,7 @@ print(a,'after casting again from float to int',type(a))
     3 after casting again from float to int <class 'int'>
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
      به خاطر داشته باشید برخی از توابع در حالت عادی خروجی چاپی ندارند مانند type، به این معنا که اگر چند مورد از این توابع را پشت هم صدا کنید تنها آخرین عمل شما نمایش داده می‌شود.
     نمایش آخرین مقدار هم تنها به دلیل استفاده شما از ژوپیتر است زیرا ژوپیتر این امکان را به شما می‌دهد که خروجی یک تابع را بدون استفاده از تابع print ببینید.
@@ -577,7 +577,7 @@ print("b's type is", type(b))
     b's type is <class 'int'>
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     انواع دیگری از متغیرها که بعدا با آنها بیشتر آشنا می‌شوید به صورت زیر هستند:    
 </font>
@@ -634,8 +634,8 @@ print(d, type(d))
 
 <font color=#C31330 size=5>
 <p></p>
-<div align=center><a name="sub2sec3">عبارت و دستور</a></div></font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" align=center><a name="sub2sec3">عبارت و دستور</a></div></font>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     در پایتون و تمامی زبان‌های برنامه نویسی دیگر، برای نوشتن یک کد نیاز به مجموعه ای از عبارات و دستورات دارید. هر خطی از کد که نوشته می‌شود مجموعه‌ای از دستورات و عبارات است.
     برای مثال کلمه print یک دستور و مقادیری که درون پرانتز آن قرار می‌گیرند عبارت است.
@@ -705,7 +705,7 @@ print(d, type(d))
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     برخی عبارات بسیار ساده هستند. برای مثال عملیاتی مانند + و یا - برخی از عملگرهای ساده‌ای هستند که کار مشخص خود را انجام می‌دهند. 
     <br>
@@ -740,7 +740,7 @@ print(d, type(d))
     <br>
     برای مثال اگر عدد 1 بزرگتر از 2 باشد:
     <br>
-    <div style="direction:ltr;line-height:300%;">
+    <div dir="rtl" style="direction:ltr;line-height:300%;">
     <code>if 1>2:</code>
     </div>
     <br>
@@ -772,8 +772,8 @@ if a<b:# عبارت شرطی درست است پس وارد آنگاه میشوی
 
 <font color=#C31330 size=5>
 <p></p>
-<div align=center><a name="sub2sec3">برنامه‌های ساده</a></div></font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" align=center><a name="sub2sec3">برنامه‌های ساده</a></div></font>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     با دانستن اطلاعات بالا می‌توانیم برخی از برنامه‌های ساده را نوشته و اجرا کنیم.
     <br>
@@ -843,10 +843,10 @@ print("y =", y)
 <a  href="#menu">بازگشت به فهرست اصلی</a>
 </font>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section4" href="#menu">فصل 4: ساختار کنترل شرطی if چند نمونه برنامه</a></div>
+<div dir="rtl" align=center><a  name="section4" href="#menu">فصل 4: ساختار کنترل شرطی if چند نمونه برنامه</a></div>
 </font>
 <font color=#C31330>
 مقدمه
@@ -886,7 +886,7 @@ else: # در صورتی که عبارت شرطی برقرار نباشد وار�
     Your name is Niloofar
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     در نمونه بالا عبارتی جدید مشاهده می‌کنید.
     در کل دستور if با دو عبارت elif و else همراه است.
@@ -917,7 +917,7 @@ else:
     Your number is 0
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     در مثال بالا در صورتی که عدد مثبت وارد کنید، عبارت داخل if اجرا می‌شود و دیگر دستورات بعدی که elif و else هستند خوانده نمی‌شوند.
     اگر عدد وارد شده منفی باشد، دستور if بررسی می‌شود و چون برقرار نیست بدون وارد شدن به کد داخل آن به بررسی دستور بعدی می‌رود.
@@ -955,7 +955,7 @@ print('The number was',n)
     The number was  8
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     با استفاده از شرط‌های تو در تو می‌توان حالت های بیشتری را بررسی کرد.
     <br>
@@ -1011,7 +1011,7 @@ print('The number was',n)
     The number was 7
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     در مثال بالا در نگاه اول یک پیچیدگی در کد میبینیم. اما در صورت دقت بیشتر به میبینیم که در هر یک از شرایط بالا بار دیگر از همان روند حدسی استفاده شده است و به این صورت برای بار دیگر عدد حدسی بررسی می‌شود و نتیجه را به بیننده اعلام می‌کند.
 </font>
@@ -1021,10 +1021,10 @@ print('The number was',n)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section5" href="#menu">فصل 5: ساختار کنترل حلقه while, for و چند نمونه برنامه</a></div>
+<div dir="rtl" align=center><a  name="section5" href="#menu">فصل 5: ساختار کنترل حلقه while, for و چند نمونه برنامه</a></div>
 </font>
 <font color=#C31330>
 مقدمه
@@ -1067,7 +1067,7 @@ for i in range(10):
     9
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
 در این کد بالا برای نوشتن اعداد از 0 تا 9 تنها از 2 خط کد استفاده شده است.
 در خط اول عبارت
@@ -1132,7 +1132,7 @@ while i<10:
     9
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     حلقه 
     <code>while</code>
@@ -1191,7 +1191,7 @@ print(a)
     1024
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     حال فرض کنید می‌خواهیم اعداد را با یک فاصله کنار هم چاپ کنیم. اینجا تنها مهارتی که لازم است نوع استفاده از print است:
 </font>
@@ -1220,7 +1220,7 @@ while i<n:
 
     0	1	2	3	4	
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     با دانستن مراحل بالا به سراغ چاپ یک ماتریس می‌رویم.
     همانطور که می‌دانید برای نوشتن یک ماتریس(منظور نوشتن اعداد به شکل ماتریسی است و نه خود ماتریس در پایتون) نیاز است تا اعداد به تعداد کنار هم و به تعدادی زیر هم نوشته شوند.
@@ -1245,7 +1245,7 @@ for i in range(3):# تعداد سطر ها را مشخص میکند
     1	1	1	
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     با استفاده از مثال بالا یک ماتریس 4 در 4 بنویسید که درایه های آن از 1 تا 16 برود.
     (این مثال را خود پیاده سازی کنید)
@@ -1257,7 +1257,7 @@ for i in range(3):# تعداد سطر ها را مشخص میکند
 
 ```
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     حال بازی قبل را که حدس زدن عدد بود با استفاده از حلقه تکمیل می‌کنیم.
     من در اینجا از حلقه while استفاده می‌کنم.
@@ -1293,7 +1293,7 @@ print('The number was',n)
     The number was 7
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     در پایان نیاز است در مورد عملگر break و کاربرد آن در حلقه ها نیز صحبت کنیم.
     در برخی موارد نمی‌توانیم شرط خاصی در ابتدا برای حلقه while تعیین کنیم و یا پس از اتفاقی می‌خواهیم به کار حلقه پایان بدهیم.
@@ -2318,7 +2318,7 @@ print('The number was',n)
     The number was 7
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     بنابراین جا چند خط ساده بازی خودمان را تکمیل کردیم.
     در فصل آینده با توابع آشنا می‌شویم که یکی از کاربردی‌ترین و اصلی‌ترین بخش‌های برنامه نویسی است.
@@ -2330,9 +2330,9 @@ print('The number was',n)
 <font color=135FC3 size=6>
 <p></p>
 
-<div align=center><a  name="section6" href="#menu">فصل 6: تابع و انواع توابع کتابخانه‌ای، ماجول و پکیج، تعریف تابع</a></div>
+<div dir="rtl" align=center><a  name="section6" href="#menu">فصل 6: تابع و انواع توابع کتابخانه‌ای، ماجول و پکیج، تعریف تابع</a></div>
 </font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <font color=#C31330>
 مقدمه
 </font><p></p>
@@ -2427,7 +2427,7 @@ print('%0.2f kilometers is equal to %0.2f miles' %(kilometers,ml))
     12.00 kilometers is equal to 7.46 miles
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     حال شما یک برنامه بنویسید که برعکس کار بالا را انجام بدهد.
     به این معنا که مایل را به کیلومتر تغییر دهید:
@@ -2440,7 +2440,7 @@ print('%0.2f kilometers is equal to %0.2f miles' %(kilometers,ml))
 
 ```
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     تا اینجا به جز تابع print که بسیار از آن استفاده کردیم، توابع دیگری نیز بودند که بدون آن که بدانیم از آن ها استفاده کردیم.
     تابع 
@@ -2523,7 +2523,7 @@ print_factors(10)
     10
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     به جز توابعی که تا اینجا تعریف شدند، کلاس‌هایی وجود دارند که دارای توابع بسیاری هستند و برای کمک و راحت سازی برنامه‌نویسی در اختیار ما قرار داده شده‌اند.
     کتابخانه numpy و random از کتابخانه های بسیار اولیه هستند که هر برنامه‌نویسی در مقطعی به آنها نیاز پیدا می‌کند.
@@ -2550,7 +2550,7 @@ print('matrix zeros 2x2:', numpy.zeros((2,2))) # ساخت یک ماتریس صف
      [0. 0.]]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     بنا به استفاده میتوانید با یک سرچ ساده از توابع بسیار متنوع نامپای استفاده کنید.
     همچنین کتابخانه رندم با آن که به صورت جداگانه قابل فراخوانی و استفاده است، در داخل نامپای نیز وجود دارد و میتوانید از آن نیز استفاده کنید.
@@ -2577,7 +2577,7 @@ for _ in range(10):
     10
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     در کد بالا برخی موارد متفاوت وجود دارند. ابتدا از for استفاده کردیم و به جای متغیر مربوط به شمارنده از _ استفاده کردیم. از آنجایی که نیاز به متغیر شمارنده نداریم، می‌توانیم به جای تعریف یک متغیر در این جایگاه از _ استفاده کنیم و آن را ندید بگیریم.
     در قسمت بعد از randint استفاده کرده‌ایم؛ به این معنی که یک عدد تصادفی صحیح می‌خواهیم و عدد 1 و 10 نیز بازه بسته مورد نظر ما برای این کار است.
@@ -2597,7 +2597,7 @@ random.random()
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     بنابراین با دانستن پایه مطالب تا اینجا پیاده‌سازی بسیاری از برنامه‌های ساده امکان پذیر هستند.
     در فصل آینده بیشتر در مورد عملگرها و اعداد اعشاری صحبت می‌کنیم و آشنا می‌شویم.
@@ -2611,9 +2611,9 @@ random.random()
 <font color=135FC3 size=6>
 <p></p>
 
-<div align=center><a  name="section7" href="#menu">فصل 7: متغیر، عبارت عملگرهای محاسباتی و اعشاری</a></div>
+<div dir="rtl" align=center><a  name="section7" href="#menu">فصل 7: متغیر، عبارت عملگرهای محاسباتی و اعشاری</a></div>
 </font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <font color=#C31330>
 مقدمه
 </font><p></p>
@@ -2654,7 +2654,7 @@ cal_interest(p,t,r)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     حال اگر نوع بهره را به یک حالت پیچیده تر تبدیل کنیم، تابع را برای آن پیاده سازی کنید. فرمول آن به صورت زیر است:
     <br>
     A = P(1 + R/100)^t 
@@ -2669,7 +2669,7 @@ cal_interest(p,t,r)
 
 ```
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     حال فرض کنید می‌خواهید نمرات یک کلاس را بگیرید و میانگین و واریانس آنها را حساب کنید.
     <br>
     این کار را به صورت زیر انجام می‌دهید:
@@ -2697,7 +2697,7 @@ print('معدل کلاس برابر است با :', s/n)
     معدل کلاس برابر است با : 13.0
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     یکم آن را پیچیده تر می‌کنیم. این بار واریانس را نیز حساب می‌کنیم
     برای آن به جای استفاده از فرمول معروف و اولیه، از فرمول زیر استفاده می‌کنیم
     که اثبات تبدیل از فرمول اولیه آن نیز قابل مشاهده است:
@@ -2730,7 +2730,7 @@ print('واریانس کلاس برابر است با :', (varInsideSum/n) - mea
     واریانس کلاس برابر است با : 5.360000000000014
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     حال با دانستن این داده ها به سراغ مرحله بعد می‌رویم.
     این بار به جای آن که از for استفاده کنیم، از while استفاده می‌کنیم و می‌گوییم تا زمانی محاسبه را ادامه بدهد که عبارت ورودی برابر عدد -1 است.
     <br>
@@ -2743,7 +2743,7 @@ print('واریانس کلاس برابر است با :', (varInsideSum/n) - mea
 
 ```
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     در برنامه بعد یک تابع مینویسیم که با توجه به شعاع داده شده به آن، مساحت یک دایره را محاسبه کند:
 </font>
 </div>
@@ -2776,7 +2776,7 @@ radius = 10
 circle_perimeter(radius)
 ```
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     بنابراین، یک نگاه اجمالی دیگر به اعداد اعشار و استفاده از آنها داشتیم.
     در فصل آینده به طور مفصل با رشته و و انواع توابع آن آشنا می‌شویم.
@@ -2787,10 +2787,10 @@ circle_perimeter(radius)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section8" href="#menu">فصل 8:متغیر، عبارت رشته های حرفی (Strings)</a></div>
+<div dir="rtl" align=center><a  name="section8" href="#menu">فصل 8:متغیر، عبارت رشته های حرفی (Strings)</a></div>
 </font>
 <font color=#C31330>
 مقدمه
@@ -3033,7 +3033,7 @@ print('*--*'*10)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     حال برخی توابع رشته را بررسی میکنیم که خود بررسی کننده هستند. این توابع می‌توانند چک کنند که آیا یک رشته به صورت کامل عددی است، حرفی است و یا تمام کاراکترهای آن کوچک هستند:
 </font>
 </div>
@@ -3122,7 +3122,7 @@ print('*--*'*10)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     برخی دیگر از توابع نیز هستند که می‌توان از آنها استفاده کرد و کاربرد های خود را دارند:
     
 </font>
@@ -3140,7 +3140,7 @@ print('*--*'*10)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     در دستور بالا تابع split را داریم که با استفاده از آن می‌توانیم یک جمله را به صورت کلمه کلمه و یا با استفاده از کاراکتر یا زیررشته دلخواه جدا کنیم.
     برای مثال جدا سازی کاراکتری به نمونه زیر توجه کنید:
 </font>
@@ -3158,7 +3158,7 @@ print('*--*'*10)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     حالت معمول برای استفاده از کاراکترها برای جدا سازی، قرار دادن کاراکترهای علامت‌های پایانی به عنوان کاراکتر جداسازی هست؛ ولی همانطور که در بالا دیدیم هر چیزی قابل استفاده است.
     <br>
     خروجی این تابع یک لیست است که تمام زیر رشته های جدا شده را در یک لیست به شما تحویل می‌دهد. با لیست ها در فصل بعد بیشتر آشنا می‌شویم.
@@ -3188,7 +3188,7 @@ print(s[::-1]) # اینجا میگوییم تمام رشته را به از -1 �
     gfedcba
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     2. اندازه یک رشته را بدون استفاده از تابع len به دست بیاورید:
 </font>
 </div>
@@ -3205,7 +3205,7 @@ print('length of String is '+str(counter))
     length of String is 18
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     3. تابعی برای پیدا کردن تعداد یک کاراکتر خاص در رشته بدون استفاده از تابع آماده:
 </font>
 </div>
@@ -3226,7 +3226,7 @@ countCharacter('a')
     Count of character 'a' in this sentence is 10
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     4. چک کنیم که یک رشته متقارن است یا خیر:
     <br>
     <font size=4>
@@ -3255,7 +3255,7 @@ print('"'+snt+'" is Palindrome') if isPalindrome else print('"'+snt+'" is not Pa
     "asdsa" is Palindrome
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     مثال های بسیاری در مورد رشته‌ها وجود دارند که می‌توانید خود آنها را حل کنید.
     با یک سرچ کوچک در گوگل می‌توانید به تعداد بسیاری منبع دسترسی پیدا کنید که در آنها مثال‌های حل شده یافت می‌شوند.
     در اینجا به همین چند مثال بسنده می‌کنیم.
@@ -3268,10 +3268,10 @@ print('"'+snt+'" is Palindrome') if isPalindrome else print('"'+snt+'" is not Pa
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section9" href="#menu">فصل 9: ساختارهای تاپل و لیست (List, Tuples) و ماتریس</a></div>
+<div dir="rtl" align=center><a  name="section9" href="#menu">فصل 9: ساختارهای تاپل و لیست (List, Tuples) و ماتریس</a></div>
 </font>
 <font color=#C31330>
 مقدمه
@@ -3291,8 +3291,8 @@ print('"'+snt+'" is Palindrome') if isPalindrome else print('"'+snt+'" is not Pa
 
 <font color=#C31330 size=5>
 <p></p>
-<div align=center><a name="sub1sec9">لیست</a></div></font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" align=center><a name="sub1sec9">لیست</a></div></font>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     لیست‌ها یک کلاس از پیش تعریف شده در پایتون هستند که دارای ویژگی تکرار هستند.
     به این معنا که در یک لیست می‌توان تعداد زیادی متغیر از هر نوع داشت.
@@ -3341,7 +3341,7 @@ print(l3)
     ['an element', 'another element', 2, 13, 1.618]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     تابع append برای اضافه کردن المان در لیست ساخته شده و به راحتی هر نوع متغیری را به لیست اضافه می‌کند.
     همانطور که در متغیرهای رشته ای نیز دیدیم، متغیرهای لیستی نیز دارای تعداد بسیاری توابع داخلی هستند که در ادامه با برخی از آنها آشنا می‌شویم:
@@ -3417,7 +3417,7 @@ l3.index(2) # مقدار اولین بار دیده شدنِ المانی که �
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     تا اینجا با برخی توابع داخلی لیست آشنا شدیم. دیگر توابع هستند که برخی از آنها را در ادامه می‌بینیم و باقی را می‌توانید خود با استفاده از 
     <font color=#C31330>
@@ -3461,7 +3461,7 @@ print(l3)
     ['an element', 'another element', 2, 3.14, 2, 2, 1.618, 123, 56, 26, 1.618, 123, 56, 26]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     اما تا اینجا صرفا با توابع لیست آشنا شدیم و همانطور که متوجه شدید بسیار مشابه با رشته است.
     در رشته ها هر یک از کارکترها یک المان از رشته کامل حساب می‌شوند.
@@ -3483,7 +3483,7 @@ print('The second one is:',l3[1])
     The second one is: another element
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     بنابراین تنها با نوشتن کروشه باز و بسته و قرار دادن عدد مکانی آنها می‌توانیم به متغیر مورد نظر دسترسی پیدا کنیم.
     <br>
@@ -3508,7 +3508,7 @@ print('Last element is:',l3[-1])
     Last element is: 26
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     همانطور که می‌بینید 1- مقدار آخر لیست است، به همین ترتیب باقی نیز از طریق اعداد منفی قابل دسترسی هستند.
     <br>
@@ -3527,7 +3527,7 @@ print('after change: ',l3)
     after change:  ['an element', 'another element', 'changing 2 to this', 3.14, 2, 2, 1.618, 123, 56, 26, 1.618, 123, 56, 26]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     مرتب کردن و برعکس کردن نیز از توابعی است که به صورت پیش فرض برای لیست ها تعریف شده است:
 </font>
@@ -3552,7 +3552,7 @@ print(l4)
     [1, 2, 3, 5, 7, 9, 45]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     همانطور که می‌بینید این دو تابع برروی خود لیست تغییرات می‌دهد و اگر آنها را پرینت کنید ورودی null می‌دهند زیرا هیچ return ای برای آنها تعریف نشده است.
     <br>
@@ -3584,7 +3584,7 @@ print(l)
     [1, 4, 6, 3, 5, 2, 9, 7]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     کد بالا با استفاده از ویژگی های پایتون امکان پذیر است و کد نویسی را بسیار راحت تر می‌کند.
     <br>
@@ -3617,7 +3617,7 @@ len(l)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     3.اعداد فرد در یک لیست را نمایش دهید:
 </font>
@@ -3654,7 +3654,7 @@ for i in range(len(l)):
     1
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     <br>
     4. مقادیر لیست را یکی در میان منفی کنید:
@@ -3675,8 +3675,8 @@ print(l)
 
 <font color=#C31330 size=5>
 <p></p>
-<div align=center><a name="sub2sec9">تاپل</a></div></font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" align=center><a name="sub2sec9">تاپل</a></div></font>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     اما پس از آشنایی با لیست، لازم است با تاپل ها نیز آشنا شویم.
     تاپل بسیار شبیه به لیست است اما تفاوتی که دارد این است که مانند رشته، پس از تعریف غیرقابل تغییر یا immutable است.
@@ -3807,7 +3807,7 @@ tup6.index(3)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     در تاپل ها نمی‌توان مقداری را حذف کرد اما می‌توان همیشه با join دو تاپل به هم و ساخت تاپل جدید مقادیر را اضافه و کم کرد.
     اضافه کردن یک مقدار به میان یک تاپل به صورت زیر انجام می‌شود.
@@ -3827,7 +3827,7 @@ print('tup6 after adding 5 to it :', tup6)
     tup6 after adding 5 to it : (1, 2, 3, 4, 5, 'elem1', 'elem2', 'elem3')
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     بنابراین تاپل ها نیز به همین سادگی به پایان رسیدند.
 </font>
@@ -3836,8 +3836,8 @@ print('tup6 after adding 5 to it :', tup6)
 <br>
 <font color=#C31330 size=5>
 <p></p>
-<div align=center><a name="sub3sec9">ماتریس ها و تاپل های تو در تو</a></div></font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" align=center><a name="sub3sec9">ماتریس ها و تاپل های تو در تو</a></div></font>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     پس از آشنایی با تاپل ها و لیست ها، نوبت به استفاده آن ها به صورت تودرتو می‌رسد.
     چند مثال زیر به عنوان نمونه برنامه هایی از لیست ها و تاپل های تو در تو است.
@@ -4001,7 +4001,7 @@ print(mySet)
     {32, 1, 2, 65, 4, 35, 12, 46, 21}
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     تا اینجا چند مثال ساده از ماتریس ها و تاپل های تو در تو حل کردیم. بنابراین تا حدی یاد گرفتیم که چگونه می‌توان با آنها برخورد کرد.
     هرچند همیشه مطالبی برای یادگیری هست.
@@ -4017,10 +4017,10 @@ print(mySet)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section10" href="#menu">فصل 10: ماژول‌های محاسباتی، تصادفی و رسم نمودار</a></div>
+<div dir="rtl" align=center><a  name="section10" href="#menu">فصل 10: ماژول‌های محاسباتی، تصادفی و رسم نمودار</a></div>
 </font>
 <font color=#C31330>
 مقدمه
@@ -4040,10 +4040,10 @@ print(mySet)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=#C31330 size=5>
     <p></p>
-    <div align=center><a name="sub1sec10">کتابخانه های numpy و random</a></div></font>
+    <div dir="rtl" align=center><a name="sub1sec10">کتابخانه های numpy و random</a></div></font>
     <p></p>
     این دو کتابخانه، همانطور که قبلا هم به آن اشاره شد، دو کتابخانه اصلی در پایتون هستند و بسیاری از کارهای محاسباتی و ریاضی به صورت پایه ای با این دو کتابخانه و به خصوص با استفاده از numpy پیاده سازی می‌شود.
     تا حدودی در فصل 6 با این دو کتابخانه آشنا شدیم.
@@ -4115,7 +4115,7 @@ b
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     اما سوالی که اینجا پیش می‌آید این است که "فرق لیست معمولی و آرایه چیست؟"
     برای پاسخ به این سوال می‌توان گفت لیست یک کلاس از پیش تعریف شده در پایتون است و ویژگی های مربوط به خود را دارد.
@@ -4189,7 +4189,7 @@ np.arange(0, 2, 0.3)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     می‌توانید به روش زیر یک تابع یا مقدار خاص تعریف شده را از یک کتابخانه به صورت جدا فراخوانی کنید و از آن استفاده کنید.
     <br>
@@ -4251,7 +4251,7 @@ print(f)
      -1.89251244e-01 -1.26592454e-01 -6.34239197e-02 -2.44929360e-16]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     عملیات ساده ماتریسی به راحتی با استفاده از آرایه ها امکان پذیر است:
     <br>
@@ -4301,7 +4301,7 @@ A.dot(B) # ضرب ماتریسی
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     تمامی توابع رندم در numpy نیز یافت می‌شوند. 
     در برخی موارد با نام های متفاوت و نوع استفاده متفاوت در دسترس هستند.
@@ -4364,7 +4364,7 @@ a.max()
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     قبل از آنکه به سراغ توابع مختلف کتابخانه random برویم لازم است اشاره ای به بانک اطلاعات کتابخانه numpy در آدرس زیر بکنم.
     <br>
@@ -4409,7 +4409,7 @@ print(random.random())
     0.2550690257394217
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     همانطور که می‌بینید این روند تغییر نمی‌کند تا زمانی که برای آن seed مشخص می‌کنید.
     در واقع عدد بعد یک هسته همیشه یک مقدار خاص است.
@@ -4453,7 +4453,7 @@ print(random.random())
     0.5110727620015786
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     حال به سراغ انواع مختلف تولید داده می‌رویم و یکی یکی آنها را بررسی می‌کنیم:
     <br>
@@ -4565,7 +4565,7 @@ random.normalvariate(mu=10, sigma=3.5)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     باقی توزیع ها و انواع ایجاد مقادیر تصادفی در کتابخانه random را می‌توانید در سایت زیر بیابید:
     <br>
@@ -4576,10 +4576,10 @@ random.normalvariate(mu=10, sigma=3.5)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=#C31330 size=5>
     <p></p>
-    <div align=center><a name="sub2sec10">کتابخانه matplotlib</a></div></font>
+    <div dir="rtl" align=center><a name="sub2sec10">کتابخانه matplotlib</a></div></font>
     <p></p>
      با استفاده از این کتابخانه می‌توان انواع نمودارها را نشان داد.
     قسمت های مختلف کتابخانه به شما دسترسی های مختلفی از رنگ، نوع و ویژگی‌های اضافه به شما می‌دهند.
@@ -4592,7 +4592,7 @@ random.normalvariate(mu=10, sigma=3.5)
 <a  href="#section10menu">بازگشت به فهرست</a>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     در مثال های زیر به ترتیب کشیدن نمودار ها را میبینیم. اما اول باید یک سری نکات در مورد کشیدن نمودارها را بیان کنم. 
     <br>
@@ -4687,7 +4687,7 @@ plt.show()
     
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     با استفاده از تابع plot می‌توان بسیاری از موارد دلخواه را نمایش داد.
     تنظیمات دیگری نیز وجود دارد که پس از تعریف باقی نمودار ها به آن ها نیز می‌پردازیم.
@@ -4736,7 +4736,7 @@ plt.show()
     
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     حال با داشتن آشنایی به باقی انواع نمودار، نوبت به اطلاعات بیشتر است.
     <br>
@@ -4764,7 +4764,7 @@ plt.show()
     
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     حال در زیر یاد می‌گیریم چگونه چند نمودار را همزمان و کنار هم رسم کنیم: 
     <br>
@@ -4799,7 +4799,7 @@ plt.show()
     
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     همانطور که می‌بینید میتوان برای هر subplot تنظیمات مربوط به خودش را انجام داد
     <br>
@@ -4809,10 +4809,10 @@ plt.show()
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=#C31330 size=5>
     <p></p>
-    <div align=center><a name="sub3sec10">مثال های این فصل</a></div></font>
+    <div dir="rtl" align=center><a name="sub3sec10">مثال های این فصل</a></div></font>
     <p></p>
     نوبت به آن می‌رسد که مثال های مختلفی از مجموع مطالب یاد گرفته شده در این فصل را ببینیم:
     <br>
@@ -4953,10 +4953,10 @@ https://matplotlib.org/stable/gallery/index.html
 --
 ---
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section11" href="#menu">فصل 11: کار با فایل‌ها و ذخیره و بازیابی داده در فایل</a></div>
+<div dir="rtl" align=center><a  name="section11" href="#menu">فصل 11: کار با فایل‌ها و ذخیره و بازیابی داده در فایل</a></div>
 </font>
 <font color=#C31330>
 مقدمه
@@ -5006,7 +5006,7 @@ with open('myfile.txt','r') as f:
     I want to add this sentence in the file with name myfile.txtthis is the end!
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     در بالا میبینید که در خط دوم جمله مورد نظر به جمله دوم چسبیده است.
     این اتفاق به این دلیل افتاده است که بین write های متوالی هیچ اتفاقی رخ نمی‌دهد.
@@ -5039,7 +5039,7 @@ with open('myfile.txt','r') as f:
     Again, I want to add this sentence in the file with name myfile.txt
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     اگر دقت کرده باشید فایل myfile را بار دیگر صدا کردیم و در آن مقادیر جدید ریختیم اما چیزی که به ما نمایش داده می‌شود تنها مقادیر جدید است.
     دلیل آن به مد بر‌می‌گردند. در مد w ما هربار که فایل را صدا می‌زنیم به چشم فایل جدید به آن نگاه می‌کند.
@@ -5089,7 +5089,7 @@ except Exception as e:
     Oops! ' No such file or directory ' occurred in line 2
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     بنابراین با در خط بالا استفاده از try و except را نیز دیدید.
     <br>
@@ -5121,7 +5121,7 @@ except Exception as e:
     Again, I want to add this sentence in the file with name myfile.txt
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     برخی دیگر از توابع هستند که در خطوط زیر با آنها نیز آشنا می‌شویم:
     <br>
@@ -5177,7 +5177,7 @@ with open('myfile.txt','r') as f:
     Is it writable?  False
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     حال چند مثال را با هم حل می‌کنیم:
     <br>
@@ -5245,7 +5245,7 @@ with open('we will rock you.txt','r') as f:
     Yeah
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     حال با داشتن فایل به سراغ مثال می‌رویم.
     <br>
@@ -5263,7 +5263,7 @@ with open('we will rock you.txt','r') as f:
     We have 21 line(s).
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     برای مثال بالا می‌توان راه حل های دیگر هم داشت. اینجا این راه حل را برای آن انتخاب کردیم.
     <br>
@@ -5287,7 +5287,7 @@ print('Number of "will" occurrence is',count)
     Number of "will" occurrence is 8
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     در مثال بالا انتظار میرود تعداد willها بسیار بیشتر از 8 باشد. اما دلیل این که ما عدد 8 را میبینیم چیست؟
     <br>
@@ -5471,7 +5471,7 @@ words
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     برای آنکه این مسئله را حل کنیم نیاز است از ویژگی های رشته استفاده کنیم و ابتدا تمامی ویرگول ها را از آن حذف کنیم.
     <br>
@@ -5496,7 +5496,7 @@ print('Number of "will" occurrence is',count)
     Number of "will" occurrence is 16
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     با این دو مثال این فصل را به پایان می‌رسانیم.
     <br>
@@ -5510,10 +5510,10 @@ print('Number of "will" occurrence is',count)
 <a  href="#menu">بازگشت به فهرست اصلی</a>
 ---
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section12" href="#menu">فصل 12: توابع بازگشتی و ساختار مجموعه و دیکشنری (Set, Dictionary)</a></div>
+<div dir="rtl" align=center><a  name="section12" href="#menu">فصل 12: توابع بازگشتی و ساختار مجموعه و دیکشنری (Set, Dictionary)</a></div>
 </font>
 <font color=#C31330>
 مقدمه
@@ -5534,10 +5534,10 @@ print('Number of "will" occurrence is',count)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=#C31330 size=5>
     <p></p>
-    <div align=center><a name="sub1sec12">توابع بازگشتی</a></div></font>
+    <div dir="rtl" align=center><a name="sub1sec12">توابع بازگشتی</a></div></font>
     <p></p>
     توابع بازگشتی نوعی از توابع هستند که خود را در داخل خود صدا می‌زنند.
     به این ترتیب در هر باز اجرای تابع، در میان دستورها بار دیگر به خود باز می‌گردند.
@@ -5583,7 +5583,7 @@ power2(3) # دو به توان 3 میرسد
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     در تابع بالا همانطور که می‌بینیم یک شرط وجود دارد که اگر مقدار ورودی یا همان توان برابر 1 بود تنها 2 را برگرداند.
     این تابع را می‌توان بهبود هم بخشید. برای مثال بگوییم اگر توان برابر صفر بود مقدار 1 را برگرداند.
@@ -5635,12 +5635,12 @@ fact(3)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     کاری که در مثال بالا انجام می‌دهیم این است که می‌نویسیم n! = n*((n-1)!) .
     <br>
     سپس در مرحله بعد خواهیم داشت :
-    <div style="direction:ltr">(n-1)! = (n-1)*(n-2)!</div>
+    <div dir="rtl" style="direction:ltr">(n-1)! = (n-1)*(n-2)!</div>
     این کار تا زمانی ادامه دارد که به 1! برسیم. در این حالت دیگر تابع فراخوانی نمی‌شود و عدد 1 برمی‌گردد. 
     سپس مانند مثال قبل تمام توابع باز شده یکی یکی مقادیر را برمی‌گردانند.
     <br>
@@ -5649,7 +5649,7 @@ fact(3)
     <br>
     تابع فیبوناتچی به صورت زیر است:
     <br>
-    <div style="direction:ltr">
+    <div dir="rtl" style="direction:ltr">
         n if n = 0, n = 1 
         <br>
         otherwise fib(n) = fib(n-1) + fib(n-2)
@@ -5671,7 +5671,7 @@ for i in range(1,10):
 
     1	1	2	3	5	8	13	21	34	
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     تفاوت مسئله بالا در تعداد بارهایی است که تابع در خودش فراخوانی می‌شود.
     روند در تابع بالا له این صورت است که تمامی مراحل مربوط به تابع قبل+ انجام می‌شود سپس به سراغ مراحل تابع دومی یا همان فراخوانی بعد + می‌رود.
@@ -5689,7 +5689,7 @@ for i in range(1,10):
     <br>
     شاید فکر کنید راحت است. اما پیچیدگی مسئله به آن قسمت برمی‌گردد که هر بار تنها می‌توانید یک حلقه را جابه‌جا کنید.
     بنا براین تابع ریاضی آن برای حداقل تعداد حرکت در این مسیر به صورت ریاضی در زیر تعریف شده است:
-    <div style="direction:ltr">
+    <div dir="rtl" style="direction:ltr">
         1 if n = 1 
         <br>
         otherwise h(n) = 2*h(n-1)+1
@@ -5716,7 +5716,7 @@ hanoi(4)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     برای آن که روند را با هم ببینیم می‌توانید به گیف زیر دقت کنید و تعداد حرکات را بشمارید:
     <br>
@@ -5759,7 +5759,7 @@ devider(l)
     [7]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     با دیدن این مثال این بخش را به پایان می‌رسانیم.
     <br>
@@ -5770,10 +5770,10 @@ devider(l)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=#C31330 size=5>
     <p></p>
-    <div align=center><a name="sub1sec12">مجموعه و دیکشنری</a></div></font>
+    <div dir="rtl" align=center><a name="sub1sec12">مجموعه و دیکشنری</a></div></font>
     <p></p>
     دو ساختار مجموعه و دیکشنری از یک مدل برای پیاده‌سازی تبعیت می‌کنند.
     هر دوی آنها با استفاده از {} تعریف می‌شوند؛ اما فرق اساسی آن ها در ساختار داخلی آنها است.
@@ -5834,7 +5834,7 @@ print('Unique elements are:', sorted(set(l)))
     Unique elements are: [1, 2, 3, 4, 5, 6, 9, 12, 21, 43, 64, 65, 124, 356]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     حال چند مثال  و تعریف از دیکشنری ببینیم:
     <br>
@@ -5880,7 +5880,7 @@ print("dictionary after deleting dic['1']: ",dic)
     dictionary after deleting dic['1']:  {0: 123, 2: 'second val', '4th key': 3, 534: 'new val'}
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     اما اطلاعات دیگری هم هست که می‌توانید از دیکشنری بگیرید:
     <br>
@@ -5918,7 +5918,7 @@ dic
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     اما نوبت به حل چند مثال می‌رسد:
     <br>
@@ -5942,7 +5942,7 @@ for key in dic.keys():
     science mean is 18.666667
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     <br>
@@ -6015,7 +6015,7 @@ print('Our dictionary in second method after sort:\n ',
       {'will': 16, 'you': 12, 'We': 8, 'we': 8, 'rock': 8, 'your': 7, 'big': 5, 'the': 5, 'man': 5, 'on': 5, 'a': 4, 'Buddy': 3, "you're": 3, 'gonna': 3, 'someday': 3, 'You': 3, 'got': 3, 'face': 3, 'disgrace': 3, 'place': 3, 'yeah': 3, 'in': 2, 'street': 2, 'mud': 2, 'all': 2, 'over': 2, 'it!': 2, 'boy': 1, 'make': 1, 'noise': 1, 'Playing': 1, 'be': 1, 'Kicking': 1, 'can': 1, "singin'": 1, 'young': 1, 'hard': 1, 'Shouting': 1, 'take': 1, 'world': 1, 'blood': 1, 'Waving': 1, 'banner': 1, 'sing': 1, 'an': 1, 'old': 1, 'poor': 1, 'Pleading': 1, 'with': 1, 'eyes': 1, 'get': 1, 'some': 1, 'peace': 1, 'Somebody': 1, 'better': 1, 'put': 1, 'back': 1, 'into': 1, 'do': 1, 'come': 1, 'alright': 1, 'louder!': 1, 'one': 1, 'more': 1, 'time': 1, 'Yeah': 1}
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     <br>
@@ -6138,7 +6138,7 @@ print(dictHC)
     {'On': 1, 'a': 16, 'dark': 1, 'desert': 1, 'highway': 1, 'cool': 1, 'wind': 1, 'in': 8, 'my': 3, 'hair': 1, 'Warm': 1, 'smell': 1, 'of': 7, 'colitas': 1, 'rising': 1, 'up': 5, 'through': 1, 'the': 29, 'air': 1, 'Up': 1, 'ahead': 1, 'distance': 1, 'I': 11, 'saw': 1, 'shimmering': 1, 'light': 1, 'My': 1, 'head': 1, 'grew': 2, 'heavy': 1, 'and': 2, 'sight': 1, 'dim': 1, 'had': 3, 'to': 9, 'stop': 1, 'for': 3, 'night': 3, 'There': 2, 'she': 6, 'stood': 1, 'doorway': 1, 'heard': 2, 'mission': 1, 'bell': 1, 'And': 3, 'was': 3, 'thinking': 1, 'myself': 1, 'This': 1, 'could': 2, 'be': 3, 'Heaven': 1, 'or': 1, 'this': 1, 'Hell': 1, 'Then': 1, 'lit': 1, 'candle': 1, 'showed': 1, 'me': 2, 'way': 1, 'were': 1, 'voices': 2, 'down': 1, 'corridor': 1, 'thought': 1, 'them': 2, 'say': 2, 'Welcome': 2, 'Hotel': 4, 'California': 3, 'Such': 5, 'lovely': 6, 'place': 7, 'face': 5, 'Plenty': 1, 'room': 1, 'at': 2, 'Any': 2, 'time': 4, 'year': 2, 'You': 5, 'can': 4, 'find': 2, 'it': 5, 'here': 3, 'Her': 1, 'mind': 1, 'is': 1, 'Tiffany-twisted': 1, 'got': 5, 'Mercedes': 1, 'bends': 1, 'She': 1, 'lot': 1, 'pretty': 2, 'boys': 1, 'calls': 1, 'friends': 1, 'How': 1, 'they': 2, 'dance': 3, 'courtyard': 1, 'sweet': 1, 'summer': 1, 'sweat': 1, 'Some': 1, 'remember': 2, 'some': 2, 'forget': 1, 'So': 1, 'called': 1, 'Captain': 1, 'Please': 1, 'bring': 1, 'wine': 1, 'He': 1, 'said': 3, 'We': 11, 'havent': 1, 'that': 1, 'spirit': 1, 'since': 1, 'nineteen': 1, 'sixty': 1, 'nine': 1, 'still': 1, 'those': 1, 'are': 3, 'calling': 1, 'from': 1, 'far': 1, 'away': 1, 'Wake': 1, 'you': 15, 'middle': 1, 'Just': 1, 'hear': 1, 'placeSuch': 1, 'They': 3, 'livin': 1, 'CaliforniaWhat': 1, 'nice': 2, 'surprise': 1, 'what': 1, 'surpriseBring': 1, 'your': 8, 'alibisMirrors': 1, 'on': 7, 'ceilingThe': 1, 'pink': 1, 'champagne': 1, 'iceAnd': 1, 'all': 3, 'just': 2, 'prisoners': 1, 'our': 1, 'own': 1, 'device': 1, 'masters': 1, 'chambers': 1, 'gathered': 1, 'feast': 1, 'stab': 1, 'with': 2, 'their': 1, 'steely': 1, 'knives': 1, 'But': 2, 'cant': 1, 'kill': 1, 'beast': 1, 'Last': 1, 'thing': 1, 'Running': 1, 'door': 1, 'passage': 1, 'back': 2, 'To': 1, 'before': 1, 'Relax': 1, 'man': 6, 'programmed': 1, 'receive': 1, 'check-out': 1, 'any': 1, 'like': 1, 'never': 1, 'leave': 1, 'Buddy': 3, 'youre': 3, 'boy': 1, 'make': 1, 'big': 5, 'noise': 1, 'Playing': 1, 'street': 2, 'gonna': 3, 'someday': 3, 'mud': 2, 'disgrace': 3, 'Kicking': 1, 'over': 2, 'singin': 1, 'will': 16, 'we': 8, 'rock': 8, 'young': 1, 'hard': 1, 'Shouting': 1, 'take': 1, 'world': 1, 'blood': 1, 'Waving': 1, 'banner': 1, 'sing': 1, 'yeah': 3, 'an': 1, 'old': 1, 'poor': 1, 'Pleading': 1, 'eyes': 1, 'get': 1, 'peace': 1, 'Somebody': 1, 'better': 1, 'put': 1, 'into': 1, 'do': 1, 'come': 1, 'alright': 1, 'louder': 1, 'one': 1, 'more': 1, 'Yeah': 1}
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     بنابراین با مثال بالا این بخش را نیز به پایان می‌رسانیم.
     <br>
@@ -6152,10 +6152,10 @@ print(dictHC)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section13" href="#menu" href="#menu">فصل 13: مفهوم کلاس و برنامه سازی شی گرا</a></div>
+<div dir="rtl" align=center><a  name="section13" href="#menu" href="#menu">فصل 13: مفهوم کلاس و برنامه سازی شی گرا</a></div>
 </font>
 <font color=#C31330>
 مقدمه
@@ -6192,7 +6192,7 @@ myclass = name_of_your_class() #**
     In the initial defenition!
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     * در بالا یک تابع اولیه است که در تمامی کلاس ها وجود دارد.
     در آن یک ورودی self هست که حتما باید در تابع اولیه باشد.
@@ -6223,7 +6223,7 @@ myclass.myPrint('print this.')
     print this.
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     در بالا یک تابع دیگر نیز به کلاس اضافه کردیم.
     در ورودی دو مقدار گرفته است. یکی همان self که مقدار اولیه است و اجازه استفاده از ویژگی های کلاس را به ما می‌دهد.
@@ -6254,7 +6254,7 @@ print(myclass)
     <__main__.name_of_your_class object at 0x000001E60C4A9B08>
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     فرض کنید می‌خواهیم در صورت پرینت کلاس اطلاعات خاصی را به شما نشان دهد.
     در آن صورت از تابع زیر استفاده می‌کنیم که ویژگی های آن باز هم از پیش تعیین شده هستند
@@ -6282,7 +6282,7 @@ print(myclass)
     This is class name_of_your_class
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     همانطور که می‌بینید یک رشته بازمی‌گرداند که در آن می‌توانید هر اطلاعاتی که مایل هستید را نشان بدهید.
     <br>
@@ -6336,7 +6336,7 @@ print('add two peaple: ', person2+person1)
     add two peaple:  46
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     در عمل جمع می‌توانید خیلی کار ها انجام دهید. 
     در اینجا تعریف ما برای جمع سن آنها بود.
@@ -6385,7 +6385,7 @@ print(ins2+ins1)
     ding dong and ring ring
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     در تابع ابتدایی کلاس بالا نوع دیگری از تعریف متغیر ها را می‌بینید.
     می‌توانید به این صورت اجازه تعریف متغیر در اول کار یا بعدا را به کاربر بدهید.
@@ -6468,7 +6468,7 @@ print(myMath)
     {'12': 19, '11': 15, '20': 18, '18': 20}
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     در کلاس بالا در ابتدا هیچ ورودی ای نگرفتیم و تنها یک دیکشنری خالی تعریف کردیم.
     سپس با تعریف یک تابع، داده ها را به صورت یکی یکی به آن اضافه کردیم.
@@ -6508,7 +6508,7 @@ myclass = name_of_your_class()
     In the initial defenition!
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     کلاس بالا را در ابتدای این فصل دیدید.
     اما در اینجا کلاس از object ارث برده است.
@@ -6559,7 +6559,7 @@ print(std1)
     Asta 10
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     با مثال بالا به راحتی از ارث بری استفاده کردیم و راحتی کار با آن را دیدیم.
     <br>
@@ -6617,7 +6617,7 @@ print(guitarE)
     ring ring
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     در مثال بالا کلاس فرزند اطلاعات خاصی در خود ندارد.
     حتی برای آن تابع مخصوص پرینت هم تعریف نشده است. بنابراین به میزان زیادی به تابع پدر تکیه می‌کند.
@@ -6634,10 +6634,10 @@ print(guitarE)
     <a  href="#menu">بازگشت به فهرست اصلی</a>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section14" href="#menu">فصل 14: الگوریتم جستجو و مرتب سازی</a></div>
+<div dir="rtl" align=center><a  name="section14" href="#menu">فصل 14: الگوریتم جستجو و مرتب سازی</a></div>
 </font>
 <font color=#C31330>
 مقدمه
@@ -6661,7 +6661,7 @@ print(guitarE)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     می‌دانیم که اگر یک تعداد کارت شامل عدد را به تعداد بی نهایت بار به هم بریزیم بالاخره در جایی به ترتیبی بر می‌خوریم که در آن کارت ها به صورت مرتب چیده شده‌اند.
     اما زندگی این زمان را به ما نمی‌دهد. :)
@@ -6708,7 +6708,7 @@ print(testList)# همان لیست اصلی مرتب شده است
     [1, 2, 3, 5, 6, 7, 13, 18, 25]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     مرحله به مرحله اتفاقی که در تابع می افتد را می‌بینید.
     در نهایت نتیجه خود لیست است که مرتب شده است و لیست جدیدی بر نمی‌گردد.
@@ -6761,7 +6761,7 @@ print(testList)
     [1, 2, 3, 5, 6, 7, 13, 18, 25]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     به عنوان آخرین مرتب سازی که در این درس با آن رو به رو هستیم مرتب سازی ترکیبی یا ادغامی را داریم.
     این مرتب سازی از دیگر مرتب سازی هایی که تا اینجا دیدیم سریع تر است اما فضای بیشتری را به خود اختصاص می‌دهد.
@@ -6790,7 +6790,7 @@ print(testList)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     1.
     ابتدا شمارنده i بر روی 3 قرار دارد و شمارنده j برروی 9.
@@ -6892,7 +6892,7 @@ print(merge_sort(testList)) # اینجا در نهایت یک لیست بازگ�
     [1, 2, 3, 5, 6, 7, 13, 18, 25]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     با این توضیحات مرتب سازی به پایان میرسد و به سراغ جستوجو می‌رویم.
@@ -6924,7 +6924,7 @@ print(linear_search(testList,we_search_for))
     7
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     در جستوجوی زیر جستوجوی باینری یا دودویی را داریم.
@@ -6990,7 +6990,7 @@ binary_search_recursive(test_list, elem, 0, len(test_list))
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     با پیاده سازی جستوجوی باینری، این فصل به پایان می‌رسد.
     <br>
@@ -7001,10 +7001,10 @@ binary_search_recursive(test_list, elem, 0, len(test_list))
     <a  href="#menu">بازگشت به فهرست اصلی</a>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section15" href="#menu">فصل 15: محاسبات ماتریسی با کتابخانه Numpy و Scipy</a></div>
+<div dir="rtl" align=center><a  name="section15" href="#menu">فصل 15: محاسبات ماتریسی با کتابخانه Numpy و Scipy</a></div>
 </font>
 <font color=#C31330>
 مقدمه
@@ -7063,7 +7063,7 @@ plt.show()
 help(sc)
 ```
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     توابع بسیاری در این بخش وجود دارند و برای محاسبات پیچیده ریاضی، بسیار به کار می آیند.
     در بالا بخشی از این توابع را دیدیم.
@@ -7150,7 +7150,7 @@ print('A*A^(-1):\n',A.dot(linalg.inv(A)) )
      [ 2.22044605e-16 -1.11022302e-16  1.00000000e+00]]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     ماتریس نتیجه ای که در بالا می‌بینید در واقع همان ماتریس همانی است.
     هرچند چیزی که می‌بینید دقیقا 0 و 1 نیست و مقادیر 0 آن آنچنان هم صفر نیستند.
@@ -7210,7 +7210,7 @@ print('check:\n',A.dot(np.linalg.solve(A, b)) - b)
      [0.]]
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     همانطور که می‌بینید حل با استفاده از توابع از پیش تعیین شده linalg بسیار سریعتر است.
     <br>
@@ -7251,7 +7251,7 @@ print('the derivation is %fx^2 +(%f)x +(%f) '%tuple(der))
     the derivation is 3.000000x^2 +(8.000000)x +(-2.000000) 
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     در تابع بالا تنها 1 ریشه از روی خط x=0 رد شده است و آن هم ریشه اولی است.
     2 ریشه دیگر بر اساس فضای i+j تعریف شده‌اند.
@@ -7289,7 +7289,7 @@ print('Linf:',linalg.norm(A,np.inf)) # نرم بینهایت
 help(linalg)
 ```
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     دیگر توابع این زیربخش را می‌توانید در بالا ببینید.
     محاسبات متفاوتی وجود دارد که می‌توانید با استفاده از زیر بخش linalg آنها را به سادگی پیاده سازی کنید.
@@ -7310,7 +7310,7 @@ help(stats) # با کمک هلپ میتوانید اطلاعات مورد نیا
  
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     جا دارد در اینجا کمی بیشتر در مورد کتابخانه numpy و کارهایی که میتوان با استفاده از آن برروی چند جمله ای ها انجام داد صحبت کنیم.
     <br>
@@ -7350,7 +7350,7 @@ print('division: ', np.polydiv(p, q) )
     division:  (array([ 0.5  ,  0.25 , -1.875]), array([16.125]))
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     اما فرض کنید چند نقطه دارید. می‌خواهید نزدیک ترین چند جمله ای را به آن فیت کنید.
     <br>
@@ -7394,7 +7394,7 @@ plt.show()
     
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     با دانستن این مطالب و آشنایی ابتدایی با کتابخانه scipy این فصل را به پایان می‌رسانیم.
     <br>
@@ -7404,10 +7404,10 @@ plt.show()
     <a  href="#menu">بازگشت به فهرست اصلی</a>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
-<div align=center><a  name="section16" href="#menu">فصل 16: مروری بر مباحث</a></div>
+<div dir="rtl" align=center><a  name="section16" href="#menu">فصل 16: مروری بر مباحث</a></div>
 </font>
     <p></p>
     در این فصل به سراغ حل یک سری از مسائل می‌رویم:
@@ -7416,7 +7416,7 @@ plt.show()
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     1.سه عدد را با هم مقایسه کنید و بزرگترین آن ها را برگردانید؟
@@ -7448,7 +7448,7 @@ print("The largest number is", largest)
     The largest number is 14
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     2.حال این کار را برای یافتن بزرگترین مقدار در یک لیست انجام دهید.
@@ -7470,7 +7470,7 @@ print('The largest is',maxNum)
     The largest is 53
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     3.
@@ -7494,7 +7494,7 @@ sqareRoot(8)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     4.
@@ -7527,7 +7527,7 @@ for i in range(1, 11):
     23 x 10 = 230
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     5.
@@ -7554,7 +7554,7 @@ print(squaresum(n))
     30
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     6.
@@ -7570,7 +7570,7 @@ print(squaresum(n))
 
 ```
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     7.
@@ -7597,7 +7597,7 @@ is_prime(7)
     7  is prime.
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     8.
@@ -7629,7 +7629,7 @@ all_prime(11,20)
     19
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     9.
@@ -7713,7 +7713,7 @@ while True:
     Let's do next calculation? (yes/no): no
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     10.
@@ -7743,7 +7743,7 @@ convertToBinary(dec)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     11.
@@ -7767,7 +7767,7 @@ convertToBinary(dec)
 
     100010
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     12.
@@ -7824,13 +7824,13 @@ changeCalculator(50,34.65)
 
 
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     <br>
     با جست و جو در اینترنت می‌توانید مثال های بسیاری را برای حل پیدا کنید.
     سایت های زیر نمونه هایی از آن ها هستند که بسیار در فراهم آوری مطالب این فایل به من کمک کرده اند:
     <br>
-    <div style="direction:ltr">
+    <div dir="rtl" style="direction:ltr">
     <a href='https://www.tutorialspoint.com/python/index.htm'> https://www.tutorialspoint.com/</a>
     <br>
     <a href='https://www.geeksforgeeks.org/'> https://www.geeksforgeeks.org/ </a>
@@ -7838,14 +7838,14 @@ changeCalculator(50,34.65)
     <a href='https://www.programiz.com/'> https://www.programiz.com/ </a>
     </div>
     برخی دیگر از سایت هایی که می‌توانید در آنها نمونه هایی برای تمرین بیابید:
-    <div style="direction:ltr">
+    <div dir="rtl" style="direction:ltr">
     <a href='https://www.w3schools.com/python/python_examples.asp'> https://www.w3schools.com/ </a>
     <br>
     <a href='https://wiki.python.org/moin/SimplePrograms'> https://wiki.python.org/moin/SimplePrograms </a>
     </div>
     بعد از مرحله یادگیری نوبت به تست خودتان می‌رسد.
     می‌توانید در این سایت ها این کار را انجام دهید:
-    <div style="direction:ltr">
+    <div dir="rtl" style="direction:ltr">
     <a href='https://edabit.com/challenges/python3'> https://edabit.com/challenges/python3</a>
     <br>
     <a href='https://www.hackerrank.com/domains/python'> https://www.hackerrank.com/domains/python </a>
@@ -7853,7 +7853,7 @@ changeCalculator(50,34.65)
     <a href='https://coderbyte.com/challenges'> https://coderbyte.com/challenges</a>
     </div>
     <br>
-    <div align=center>
+    <div dir="rtl" align=center>
     امیدوارم در طول این مسیر به مهارت مناسبی از برنامه نویسی با استفاده از پایتون رسیده باشید.
     <br>
     از یادگیری دست برندارید.
