@@ -291,6 +291,7 @@
     برای آن که با پایتون آشنایی اولیه پیدا کنیم، نیاز است ابتدا با برخی از تعریف‌های اولیه آشنا شویم:
     <br>
     <img src="Pics/keywords.png" width="700" height="700" alt="" />
+    <br>
     برخی از کلمات خاص در زبان پایتون هستند که با آنها در آینده بیشتر آشنا می‌شویم.
     <br>
     برای مثال کلمه print از جمله این کلمات است که کاربرد آن نمایش هر آنچه درون آن نوشته شده است می‌باشد.
@@ -427,7 +428,7 @@ print("The sum is ",sum_of_2_numbers)
 <font color=#C31330 size=5>
 <p></p>
 <div align=center><a name="sub1sec3">انواع متغیر</a></div></font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     همان طور که در فصل گذشته به آن اشاره شد، انواع متغیرها در پایتون شامل اعداد، رشته ها، لیست، تاپل و دیکشنری است. برخلاف برخی دیگر از زبان‌های برنامه نویسی مانند cو java ، در پایتون نیاز به مشخص کردن نوع متغیر هنگام تعریف آن نیست. بسته به مقداری که برای متغیر تعیین می‌شود، نوع متغیر برای زبان پایتون مشخص می‌شود.
     بنابراین در صورتی که به متغیر به طور مثال a مقدار 2 تعریف شود، پایتون نوع آن را 
@@ -514,7 +515,7 @@ print('a is',a , 'and b is', b)
     a is a string and b is 123
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     همچنین امکان کَست دو مقدار به هم (در صورت امکان تبدیل دو مثدار به هم) را نیز داریم. به این معنا که اگر عددی در غالب رشته باشد توانایی تبدیل آن به عدد را داریم.
     یا میتوانیم در صورت نیاز عددی را به رشته تبدیل کنیم. 
@@ -931,7 +932,7 @@ else:
     Your number is 0
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     در مثال بالا در صورتی که عدد مثبت وارد کنید، عبارت داخل if اجرا می‌شود و دیگر دستورات بعدی که elif و else هستند خوانده نمی‌شوند.
     اگر عدد وارد شده منفی باشد، دستور if بررسی می‌شود و چون برقرار نیست بدون وارد شدن به کد داخل آن به بررسی دستور بعدی می‌رود.
@@ -969,7 +970,7 @@ print('The number was',n)
     The number was  8
     
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     با استفاده از شرط‌های تو در تو می‌توان حالت های بیشتری را بررسی کرد.
     <br>
@@ -3160,7 +3161,7 @@ print(mySet)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <font color=135FC3 size=6>
 <p></p>
 <div align=center><a  name="section10" href="#menu">فصل 10: ماژول‌های محاسباتی، تصادفی و رسم نمودار</a></div>
@@ -5935,7 +5936,7 @@ print(testList)
 </font>
 </div>
 
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
     <p></p>
     1.
     ابتدا شمارنده i بر روی 3 قرار دارد و شمارنده j برروی 9.
