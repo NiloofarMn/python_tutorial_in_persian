@@ -286,7 +286,7 @@
 <font color=#C31330 size=5>
 <p></p>
 <div align=center><a name="sub3sec2">آشنایی مقدماتی با پایتون</a></div></font>
-<div style="direction:rtl;line-height:300%;"><font face="XB Nazanin" size=5>
+<div dir="rtl" style="line-height:300%;"><font face="XB Nazanin" size=5>
 <p></p>
     برای آن که با پایتون آشنایی اولیه پیدا کنیم، نیاز است ابتدا با برخی از تعریف‌های اولیه آشنا شویم:
     <br>
